@@ -1,12 +1,12 @@
-# Testes automatizados com Cypress - Intermediário
+# Projeto de teste de API, GUI, CLI
 
 👋 Seja bem-vinda(o)!
 
-É muito bom tê-la(o) aqui. Tenho certeza que você vai adorar este curso. ❤️
+É muito bom tê-la(o) aqui. Tenho certeza que você vai adorar. 
 
-## O que você vai aprender
+## Temos então um tópico do meu aprendizado
 
-Durante o curso de testes automatizados com Cypress (intermediário) você vai aprender:
+Durante o curso de testes automatizados com Cypress aprendi:
 
 - Como configurar o ambiente local de desenvolvimento
 - Como instalar e configurar o Cypress
@@ -25,10 +25,10 @@ Durante o curso de testes automatizados com Cypress (intermediário) você vai a
 - Como executar comandos à nível de sistema operacional
 - E como testar a leitura de arquivos
 
-## Vamos começar?
-
-Vá para a seção [estrutura do curso](./lessons/_course-structure_.md).
+## Versões
+Cypress: 12.0.2
+Node: 18.15.0
 
 ___
 
-Este é mais um curso da [**Escola Talking About Testing**](https://udemy.com/user/walmyr).
+Este é mais um projeto da [**Escola Talking About Testing**](https://udemy.com/user/walmyr).
